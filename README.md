@@ -1,4 +1,4 @@
-# Tweegine - a Search Engine/Indexer
+# Inxine - a Search Engine/Indexer
 
 ## CSE 535 IR Project
 
