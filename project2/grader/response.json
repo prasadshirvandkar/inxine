@@ -1,0 +1,50 @@
+{
+    "Response": {
+        "daatAnd": {
+            "errors": [],
+            "score": 3.0
+        },
+        "daatAndSkip": {
+            "errors": [],
+            "score": 4.5
+        },
+        "daatAndSkipTfIdf": {
+            "errors": [
+                {
+                    "check_daatAndSkipTfIdf_all respiratory diseases": "Wrong number of documents or document ids not matching"
+                },
+                {
+                    "check_daatAndSkipTfIdf_sars, covid and mers": "Wrong number of documents or document ids not matching"
+                },
+                {
+                    "check_daatAndSkipTfIdf_sars-cov-2 protein structure": "Wrong number of documents or document ids not matching"
+                }
+            ],
+            "score": 0.75
+        },
+        "daatAndTfIdf": {
+            "errors": [
+                {
+                    "check_daatAndTfIdf_all respiratory diseases": "Wrong number of documents or document ids not matching"
+                },
+                {
+                    "check_daatAndTfIdf_sars, covid and mers": "Wrong number of documents or document ids not matching"
+                },
+                {
+                    "check_daatAndTfIdf_sars-cov-2 protein structure": "Wrong number of documents or document ids not matching"
+                }
+            ],
+            "score": 0.75
+        },
+        "postingsList": {
+            "errors": [],
+            "score": 1.5
+        },
+        "postingsListSkip": {
+            "errors": [],
+            "score": 3
+        },
+        "time_taken": "0.06952619552612305",
+        "total_score": 13.5
+    }
+}
