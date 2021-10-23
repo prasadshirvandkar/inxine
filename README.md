@@ -14,3 +14,4 @@ Performed:
 - Built an Inverted Index to store doc ids for words
 - Performed Document At A Time (DaaT) query processing to search multi term query postings list
 - Implemented Skip Pointers in Postings List
+- Calculated TF-IDF Scores for each term in Postings List
