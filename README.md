@@ -1,4 +1,4 @@
-# Information-Retrieval
+# Tweegine - a Search Engine/Indexer
 
 ## CSE 535 IR Project
 
